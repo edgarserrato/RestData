@@ -27,6 +27,7 @@ public class Person {
         return lastName;
     }
 
+    //Add minor comment
     public void setLastName(String lastName){
         this.lastName = lastName;
     }
